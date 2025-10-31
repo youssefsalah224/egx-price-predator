@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1d282880f4b34e2da9d0ff5e916dd6b9/artifacts
+end_time: 1761935474431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d282880f4b34e2da9d0ff5e916dd6b9
+run_name: thoughtful-koi-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761935163529
+status: 3
+tags: []
+user_id: youss

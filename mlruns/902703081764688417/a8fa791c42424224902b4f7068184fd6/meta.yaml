@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/902703081764688417/a8fa791c42424224902b4f7068184fd6/artifacts
+end_time: 1761560995507
+entry_point_name: ''
+experiment_id: '902703081764688417'
+lifecycle_stage: active
+run_id: a8fa791c42424224902b4f7068184fd6
+run_name: Run for @dev
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761560991303
+status: 3
+tags: []
+user_id: youss

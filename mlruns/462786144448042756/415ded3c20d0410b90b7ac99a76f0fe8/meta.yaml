@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/462786144448042756/415ded3c20d0410b90b7ac99a76f0fe8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '462786144448042756'
+lifecycle_stage: active
+run_id: 415ded3c20d0410b90b7ac99a76f0fe8
+run_name: GridSearch for @dev
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761601659867
+status: 1
+tags: []
+user_id: youss
